@@ -11,7 +11,7 @@ Bu dökümanı okuyarak, discord'da kendinize özel bir RPC durum ayarlayabilirs
 * Uygulama ismini belirtin. (Buraya girdiğiniz isim RPC Durumundaki isminiz olacaktır.)
 * Rich Presence > Art Assets sekmesine girin, bir resim yükleyin (isteğe bağlı) ve bu adı bir yere not edin (lazım olacak.)
 
-## İkinci Adım:: Projemizi Oluşturalım
+## İkinci Adım: Projemizi Oluşturalım
 * Yeni bir klasör oluşturun ve ardından bu klasörü kod editörünüz ile birlikte açın.
 * Projenizde bir komut terminali açın ve `npm init -y` komutunu girin. Böylelikle package.json dosyamızı oluşturduk. (Eğer hata alırsanız: `npm init` komutu ile kurmayı deneyin.)
 * Ardından `discord-rpc` modülünü kurun. (`npm install discord-rpc`) 
